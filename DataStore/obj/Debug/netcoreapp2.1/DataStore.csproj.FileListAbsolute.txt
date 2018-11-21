@@ -1,0 +1,11 @@
+C:\Users\Pladar\source\repos\FlatReaver\DataStore\bin\Debug\netcoreapp2.1\DataStore.deps.json
+C:\Users\Pladar\source\repos\FlatReaver\DataStore\bin\Debug\netcoreapp2.1\DataStore.dll
+C:\Users\Pladar\source\repos\FlatReaver\DataStore\obj\Debug\netcoreapp2.1\DataStore.csproj.CoreCompileInputs.cache
+C:\Users\Pladar\source\repos\FlatReaver\DataStore\obj\Debug\netcoreapp2.1\DataStore.AssemblyInfoInputs.cache
+C:\Users\Pladar\source\repos\FlatReaver\DataStore\obj\Debug\netcoreapp2.1\DataStore.AssemblyInfo.cs
+C:\Users\Pladar\source\repos\FlatReaver\DataStore\bin\Debug\netcoreapp2.1\DataStore.runtimeconfig.json
+C:\Users\Pladar\source\repos\FlatReaver\DataStore\bin\Debug\netcoreapp2.1\DataStore.runtimeconfig.dev.json
+C:\Users\Pladar\source\repos\FlatReaver\DataStore\bin\Debug\netcoreapp2.1\DataStore.pdb
+C:\Users\Pladar\source\repos\FlatReaver\DataStore\obj\Debug\netcoreapp2.1\DataStore.dll
+C:\Users\Pladar\source\repos\FlatReaver\DataStore\obj\Debug\netcoreapp2.1\DataStore.pdb
+C:\Users\Pladar\source\repos\FlatReaver\DataStore\obj\Debug\netcoreapp2.1\DataStore.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Pladar\source\repos\FlatReaver\DataStorage.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Pladar\source\repos\FlatReaver\DataStorage.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Pladar\source\repos\FlatReaver\DataStorage.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Pladar\source\repos\FlatReaver\DataStorage.Tests\bin\Debug\netcoreapp2.1\DataStorage.Tests.deps.json
+C:\Users\Pladar\source\repos\FlatReaver\DataStorage.Tests\bin\Debug\netcoreapp2.1\DataStorage.Tests.runtimeconfig.json
+C:\Users\Pladar\source\repos\FlatReaver\DataStorage.Tests\bin\Debug\netcoreapp2.1\DataStorage.Tests.runtimeconfig.dev.json
+C:\Users\Pladar\source\repos\FlatReaver\DataStorage.Tests\bin\Debug\netcoreapp2.1\DataStorage.Tests.dll
+C:\Users\Pladar\source\repos\FlatReaver\DataStorage.Tests\obj\Debug\netcoreapp2.1\DataStorage.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Pladar\source\repos\FlatReaver\DataStorage.Tests\obj\Debug\netcoreapp2.1\DataStorage.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Pladar\source\repos\FlatReaver\DataStorage.Tests\obj\Debug\netcoreapp2.1\DataStorage.Tests.AssemblyInfoInputs.cache
+C:\Users\Pladar\source\repos\FlatReaver\DataStorage.Tests\obj\Debug\netcoreapp2.1\DataStorage.Tests.AssemblyInfo.cs

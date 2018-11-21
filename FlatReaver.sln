@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlatReaver", "FlatReaver\FlatReaver.csproj", "{516D67B3-A0A4-4A43-AF09-809AE8AE3EEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStore", "DataStore\DataStore.csproj", "{E17AAD99-F9BF-4B96-82EF-91C22185643B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{177B6DCF-FB74-4F1D-826B-F388747F6351}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStore.Tests", "DataStorage.Tests\DataStore.Tests.csproj", "{FE977B23-8B3A-4A48-8282-464A3FDB6968}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlatReaver.Tests", "FlatReaver.Tests\FlatReaver.Tests.csproj", "{DD336FD4-23DD-4B6F-A90D-F89D95DFF123}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Information", "Information", "{9F0D7EDA-421A-49CB-8AA7-5C547CC68B12}"
+	ProjectSection(SolutionItems) = preProject
+		ARI_Protocol.txt = ARI_Protocol.txt
+		Readme.txt = Readme.txt
+		..\..\..\Desktop\SQLSetUp.sql = ..\..\..\Desktop\SQLSetUp.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{516D67B3-A0A4-4A43-AF09-809AE8AE3EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516D67B3-A0A4-4A43-AF09-809AE8AE3EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516D67B3-A0A4-4A43-AF09-809AE8AE3EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516D67B3-A0A4-4A43-AF09-809AE8AE3EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17AAD99-F9BF-4B96-82EF-91C22185643B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17AAD99-F9BF-4B96-82EF-91C22185643B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17AAD99-F9BF-4B96-82EF-91C22185643B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17AAD99-F9BF-4B96-82EF-91C22185643B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE977B23-8B3A-4A48-8282-464A3FDB6968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE977B23-8B3A-4A48-8282-464A3FDB6968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE977B23-8B3A-4A48-8282-464A3FDB6968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE977B23-8B3A-4A48-8282-464A3FDB6968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD336FD4-23DD-4B6F-A90D-F89D95DFF123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD336FD4-23DD-4B6F-A90D-F89D95DFF123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD336FD4-23DD-4B6F-A90D-F89D95DFF123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD336FD4-23DD-4B6F-A90D-F89D95DFF123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE977B23-8B3A-4A48-8282-464A3FDB6968} = {177B6DCF-FB74-4F1D-826B-F388747F6351}
+		{DD336FD4-23DD-4B6F-A90D-F89D95DFF123} = {177B6DCF-FB74-4F1D-826B-F388747F6351}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4615B6B-3C7C-4187-A53F-8953521C7D4E}
+	EndGlobalSection
+EndGlobal

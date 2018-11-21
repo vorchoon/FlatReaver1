@@ -1,0 +1,14 @@
+﻿{
+  "ConnectionString": "Server=localhost;Database=FlatReaverStorage;Trusted_Connection=True;",
+
+  "Host": "http://localhost:32018",
+
+  "HttpsRequired": "false",
+
+  "SecurityTokenIssuer": "FlatReaverLtd",
+
+  "SecurityKeyword": "Let's_Start_our_CONVERsation_wiTH_2018_yEAr!!!11",
+
+  "SecurityTokenLifetime": "10"
+
+}
